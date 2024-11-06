@@ -9,6 +9,8 @@
 
 ### 📂 목차
 1. Generic 1
+   - 2024.11.06 강의 듣기 완료
+   - 2024.11.06 블로그 정리 완료 🔗 [블로그 링크](https://dev-cloud.tistory.com/381)
 2. Generic 2
 3. Collection Framework - ArrayList
 4. Collection Framework - LinkedList
